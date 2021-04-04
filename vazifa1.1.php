@@ -10,7 +10,7 @@ $b=$c;
 
 echo $a;
 echo $b;
-
+echo "salom";
 
 
 ?>
